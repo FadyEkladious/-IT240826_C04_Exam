@@ -9,6 +9,7 @@
 1. Did you check your calculation settings?
 
 1. Do you have hidden or filtered cells in your sheet ?
+   ##
    
  - URL have the questions [Click Here](https://insidetheweb.com/fix-excel-formulas-not-calculating/)
 
